@@ -47,6 +47,9 @@ This project helped me strengthen my skills in:
 
 Excel | Data Analysis | Data Visualization | Business Intelligence | Dashboard Development
 
+<img width="1318" height="640" alt="VIVA_California_Dashboard" src="https://github.com/user-attachments/assets/07efee97-88e7-44f4-8437-5e69d639f6ab" />
+
+
 🚀 Currently continuing my journey toward becoming a Data Analyst and building more real-world projects.
 
 What would you improve or add to this dashboard?
